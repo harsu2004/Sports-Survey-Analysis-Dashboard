@@ -13,7 +13,7 @@
 
 4. Technologies Used:- 
   - Power BI – for dashboard development
-  - Microsoft Excel / CSV – for data cleaning and preprocessing
+  - Microsoft Excel – for data cleaning and preprocessing
   - Data Visualization Techniques – charts, maps, and KPIs
   - Basic Data Analysis – aggregation, filtering, segmentation
 
