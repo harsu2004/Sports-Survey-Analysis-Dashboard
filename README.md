@@ -1,7 +1,8 @@
-1. Project Name:- Sports Survey Analysis Dashboard
-2. Project Overview:- 
+1. Project Name:-  Sports Survey Analysis Dashboard
 
-The Sports Survey Analysis Dashboard is an interactive data visualization project that provides insights into sports participation, preferences, and distribution based on survey data.
+3. Project Overview:- 
+
+  - The Sports Survey Analysis Dashboard is an interactive data visualization project that provides insights into sports participation, preferences, and distribution based on survey data.
 
 3. Objectives:- 
   - Analyze survey data related to sports participation
@@ -25,4 +26,5 @@ The Sports Survey Analysis Dashboard is an interactive data visualization projec
   - Interactive Filters (State/Region Selection)
 
 6. Screenshot:-
+   https://github.com/harsu2004/Sports-Survey-Analysis-Dashboard/blob/main/Dashboard%20SS.png
    
